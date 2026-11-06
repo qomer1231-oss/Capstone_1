@@ -17,3 +17,9 @@ Key findings from the analyses:
   
 Business Rec:
 - Focusing sales attention towards Technology & Accessories as it is consistently producing the largest number of online sales for the state.
+
+Project Files
+- Qureshi_ohio_monthly_revenue.csv
+- Qureshi_sales_analysis.sql
+- Qureshi_territory_chart.xlsx
+- README.md
