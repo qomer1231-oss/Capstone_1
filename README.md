@@ -23,3 +23,6 @@ Project Files
 - Qureshi_sales_analysis.sql
 - Qureshi_territory_chart.xlsx
 - README.md
+
+Recording
+[https://drive.google.com/file/d/1bXxU7r1isqoo-EEemBKxnAXakAVh0eMp/view?usp=sharing](url)
